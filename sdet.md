@@ -1,4 +1,4 @@
-<img width="414" height="644" alt="image" src="https://github.com/user-attachments/assets/de66d9e3-28db-47fc-ac0e-5f8fd4b234ca" />### AI TOOLS
+### AI TOOLS
 - Prompt Generator: https://tools.picsart.com/text/ai-writer/prompt-generator/
 
 ### Test Plan
