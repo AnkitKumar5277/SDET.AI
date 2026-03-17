@@ -1,4 +1,4 @@
-# 1. Test Plan
+<img width="742" height="675" alt="image" src="https://github.com/user-attachments/assets/fb17232d-0367-4f59-a22f-fc9b9111473e" /># 1. Test Plan
 
 ### Basic
 ```
@@ -130,5 +130,63 @@ And that include [unit,integration,system, security and performance testing also
 ```
 - Example : https://docs.google.com/document/d/1XWLqPk3veeD7MRVD9yNaE1wlmWndfxrh/edit
 
+ # 5 Test Metrics
+ ```
+ Create a table with the following Test Metrics:
+Metrics and Values:
+- No. of Requirements: [value]
+- Avg. No. of Test Cases/Requirement: [value]
+- Total No. of Test Cases: [value]
+- Test Cases Executed: [value]
+- Test Cases Passed: [value]
+- Test Cases Failed: [value]
+- Test Cases Blocked: [value]
+- Test Cases Unexecuted: [value]
+- Total Defects Identified: [value]
+- Critical Defects: [value]
+- High Defects: [value]
+- Medium Defects: [value]
+- Low Defects: [value]
+- Customer Defects: [value]
+- Defects in UAT: [value]
+Additional Metrics:
+- % Test Cases Executed: (Executed / Total) * 100
+- % Test Cases Not Executed: (Unexecuted / Total) * 100
+- % Test Cases Passed: (Passed / Executed) * 100
+- % Test Cases Failed: (Failed / Executed) * 100
+- % Test Cases Blocked: (Blocked / Executed) * 100
+```  
+ <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d2e7a51f-ca77-409a-8d6e-7b3c0ae2475a" /> 
  
+# 6. Bug reporting
+```
+Identify any potential bugs in the following web application, << Test Plan, Requirement>> 
+```
+### Example: Create an issue in jira for scenario - user not able to login after three attempts in app.vwo.com.
+```
+Create bug [or issue] for scenario [mention your issue]
+```
+**Example: **
+**BUG-1:** Login for a user is not working with valid username and password with 500 error in login API
+**Description
+Steps to Reproduce**
+Navigate to stage.demoapp.xyz/login
+User Creds X and Y
+Notice that After clicking Login button, login it not working
+**Actual Result**
+(Field left blank)
+**Expected Result**
+(Field left blank)
+**URL**
+(Field left blank)
+**Environment** - stage.demoapp.xyz
+**Logs** - Error with 500 /login with JSON
+https://www.loom.com/share/174c8830bcb24de3ac38d488e8b57643
+**Attachments 2**
+API Testing int... .xmind (11 Jan 2022, 12:05 AM)
+API Testing int... .d-jpeg (11 Jan 2022, 12:03 AM)
+  
+<img width="742" height="675" alt="image" src="https://github.com/user-attachments/assets/556efebc-766e-4510-a4bb-a1b13824913a" />
+
+
 
