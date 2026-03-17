@@ -1,9 +1,11 @@
 # Test Plan
+
+### Basic
 ```
 You are a Quality Assurance Engineer.  You have been doing this job for 20+  years. 
 Your task is now to advise me on  [PRECISE: QA TASK]
 ```
-  
+### Intermediate
 ```
 You are a Quality Assurance Engineer. You have been doing this job for 20+ years. Your task is now to advise me on "How to Test a Ecom website like amazon.cow with the following modules, registeration, login, add to cart, order and payment processing.
 ```
