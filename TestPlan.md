@@ -166,27 +166,26 @@ Identify any potential bugs in the following web application, << Test Plan, Requ
 ```
 Create bug [or issue] for scenario [mention your issue]
 ```
-**Example: **
-**BUG-1:** Login for a user is not working with valid username and password with 500 error in login API
-**Description
-Steps to Reproduce**
-Navigate to stage.demoapp.xyz/login
-User Creds X and Y
-Notice that After clicking Login button, login it not working
-**Actual Result**
+**Example: **  
+- **BUG-1:** Login for a user is not working with valid username and password with 500 error in login API
+- **Description
+- Steps to Reproduce**
+Navigate to stage.demoapp.xyz/login  
+User Creds X and Y  
+Notice that After clicking Login button, login it not working  
+- **Actual Result**
 (Field left blank)
-**Expected Result**
+- **Expected Result**
 (Field left blank)
-**URL**
+- **URL**
 (Field left blank)
-**Environment** - stage.demoapp.xyz
-**Logs** - Error with 500 /login with JSON
+- **Environment** - stage.demoapp.xyz
+- **Logs** - Error with 500 /login with JSON
 https://www.loom.com/share/174c8830bcb24de3ac38d488e8b57643
-**Attachments 2**
-API Testing int... .xmind (11 Jan 2022, 12:05 AM)
-API Testing int... .d-jpeg (11 Jan 2022, 12:03 AM)
-  
-<img width="742" height="675" alt="image" src="https://github.com/user-attachments/assets/556efebc-766e-4510-a4bb-a1b13824913a" />
+- **Attachments 2**
+API Testing int... .xmind (11 Jan 2022, 12:05 AM)  
+API Testing int... .d-jpeg (11 Jan 2022, 12:03 AM)  
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/556efebc-766e-4510-a4bb-a1b13824913a" />
 
 # 7. TEST CLOSURE
 ```
