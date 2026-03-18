@@ -1,4 +1,4 @@
-<img width="742" height="675" alt="image" src="https://github.com/user-attachments/assets/fb17232d-0367-4f59-a22f-fc9b9111473e" /># 1. Test Plan
+# 1. Test Plan
 
 ### Basic
 ```
@@ -187,6 +187,21 @@ API Testing int... .xmind (11 Jan 2022, 12:05 AM)
 API Testing int... .d-jpeg (11 Jan 2022, 12:03 AM)
   
 <img width="742" height="675" alt="image" src="https://github.com/user-attachments/assets/556efebc-766e-4510-a4bb-a1b13824913a" />
+
+# 7. TEST CLOSURE
+```
+Generate a Test Closure report for the project "<app.vwo.com/login>" and  with details , use format "The test closure report includes the following:
+Test Summary Report.
+Identifier.
+Test Summary.
+Variances.
+Comprehensive Assessment.
+Summary of Results.
+Evaluation.
+Summary of Activities.
+Approval.
+```
+ 
 
 
 
