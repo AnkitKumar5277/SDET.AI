@@ -1,0 +1,22 @@
+# Top 20 QA Prompts for OpenCode
+
+- Analyze this codebase and identify areas with zero test coverage.
+- Generate unit tests for all public methods in @src/services/
+- Create E2E Playwright tests for the user registration flow.
+- Write API tests from the Swagger spec at @docs/api-spec.yaml
+- Find all flaky test patterns using grep: Thread.sleep, hardcoded waits, shared state.
+- Set up Page Object Model for our Selenium project.
+- Create a GitHub Actions pipeline with parallel Selenium and Playwright.
+- Generate 100 user test records with realistic fake data.
+- Set up visual regression with Playwright snapshots.
+- Aggregate JUnit, Allure, and Playwright reports into one summary.
+- Write OWASP Top 10 security tests for our login endpoint.
+- Create Docker Compose for Selenium Grid with 3 browser nodes.
+- Add WCAG 2.1 AA accessibility tests with axe-core.
+- Generate a Requirements Traceability Matrix from our test suite.
+- Set up k6 performance tests: load (100 VUs), stress (500 VUs), spike (1000 VUs).
+- Create WireMock stubs for all external API dependencies.
+- Identify which tests should be in the smoke suite based on risk and execution time.
+- Configure Playwright traces on failure for CI debugging.
+- Create database fixtures with setup/teardown for integration tests.
+- Build a test metrics dashboard showing 30-day pass/fail trends.
