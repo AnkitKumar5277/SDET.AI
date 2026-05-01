@@ -5,13 +5,13 @@ Instead of writing long Python code, you drag and drop components to create AI w
 
 # Implement 
 
-<img width="852" height="542" alt="image" src="https://github.com/user-attachments/assets/6344ec09-a232-4f60-97ae-d49f63385989" />
+<img width="852" height="542" alt="image" src="https://github.com/user-attachments/assets/4bf5c59b-86cf-4a8c-940b-e54613effa82" />
 
 """
 https://teachyouai.cloud/flow/a888a71d-74c1-44cf-8f0b-4a50ebd6f53f 
 """
 
-<img width="1091" height="558" alt="image" src="https://github.com/user-attachments/assets/8a5ce40a-27ea-46af-a4b9-e3724d3f066b" />
+<img width="1091" height="558" alt="image" src="https://github.com/user-attachments/assets/9d2ac513-a6d0-4e8e-8169-b8be77a4857a" />
 
 # What Langflow Helps You Build  
 - RAG systems  
