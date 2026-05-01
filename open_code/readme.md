@@ -68,20 +68,35 @@ create AGENTS.md: /init
 
 <img width="431" height="225" alt="image" src="https://github.com/user-attachments/assets/04e3676e-d892-4ebf-9c2d-0f26f1588713" />
 
+<img width="431" height="225" alt="image" src="https://github.com/user-attachments/assets/85ea72a2-032e-4b3c-94ae-bf767f16031c" />
+
+
 in chatgpt: I want you to basically give me an enhanced prompt for OpenCode to create a test case generator where the user will submit an idea or a user story and the application will generate a test case from it. And this should be a very minimal application that uses the GroQ API. In this case, the user will enter the GROQ API key and will be able to generate test cases using the free model, which is Llama 3.0.
 
 then paste chatgpt output in opencode
 
 <img width="186" height="251" alt="image" src="https://github.com/user-attachments/assets/290764c9-8c89-429f-9539-1557b60a3f64" />
 
+<img width="186" height="251" alt="image" src="https://github.com/user-attachments/assets/d370728f-f555-4f08-a36b-6a314635a970" />
+
+
 <img width="1470" height="840" alt="image" src="https://github.com/user-attachments/assets/e0ad613e-95bc-40e3-b3f4-19d09dcb7541" />
+
+<img width="1470" height="840" alt="image" src="https://github.com/user-attachments/assets/ccf186de-4c56-4d73-a96a-b65c918dc0b9" />
+
 
 you can change model: https://console.groq.com/playground
 
 search model and change:  
 <img width="666" height="143" alt="image" src="https://github.com/user-attachments/assets/5aa31027-bcf1-40ee-a25f-39a81d37068d" />
 
+<img width="666" height="143" alt="image" src="https://github.com/user-attachments/assets/c742cbe8-fb79-4eba-8321-497355b829d7" />
+
+
 <img width="1342" height="586" alt="image" src="https://github.com/user-attachments/assets/066d3586-6996-488d-a80c-8fbf61c32c37" />
+
+<img width="1342" height="586" alt="image" src="https://github.com/user-attachments/assets/a1154d24-9229-410c-a540-8989a56491bc" />
+
 
 next prompt: Please make sure that test cases are in a proper Jira format and you give them in a tabular form. Please change the UI.
  
