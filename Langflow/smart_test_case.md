@@ -1,7 +1,8 @@
 ## What We Are Building (Clear Goal)
 We will build: 
 >  **A Smart Test Case Generator that learns from existing test cases and generates better new ones** 
-<img width="1684" height="824" alt="image" src="https://github.com/user-attachments/assets/8f9bd0a2-6ce3-40a7-81e8-31b75f290a96" />
+<img width="1684" height="824" alt="image" src="https://github.com/user-attachments/assets/9d9e17ae-154e-41e1-96eb-2a17778d18ae" />
+
 
 ## Data Preparation (VERY IMPORTANT)
 ### Convert Each Row into One Document
