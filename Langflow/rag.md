@@ -15,7 +15,8 @@ Instead of answering from memory, the AI:
 2. **Uses that data to generate output**
 
 RAG Flow (Concept)
-<img width="868" height="690" alt="image" src="https://github.com/user-attachments/assets/b5eac100-e2c8-4e51-9160-9da50c339ce6" />
+<img width="868" height="690" alt="image" src="https://github.com/user-attachments/assets/bcbb9b55-dc02-42db-a671-61e586d1cee5" />
+
 
 ## Why RAG Is Better Than Direct LLM Usage
 ### Direct LLM Approach ❌
@@ -37,4 +38,5 @@ Benefits:
 - Matches company standards
 - Better edge cases
 - Repeatable and auditable
-<img width="1254" height="950" alt="image" src="https://github.com/user-attachments/assets/a9dc70fb-74ee-42c0-8c7a-5ddae056e7b8" />
+<img width="1254" height="950" alt="image" src="https://github.com/user-attachments/assets/260a111f-24ba-4e8a-8435-b7a781f69736" />
+
