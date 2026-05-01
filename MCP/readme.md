@@ -19,9 +19,7 @@ Task 3 - Advance Stuff
 
 Github MCP Server – Push code via Prompts (like 5th grade)
 
-<img width="1398" height="865" alt="image" src="https://github.com/user-attachments/assets/f1649efc-5445-4b3e-8b10-3f0f68307973" />
+<img width="1398" height="865" alt="image" src="https://github.com/user-attachments/assets/3eb2d6e9-afce-4bb0-b2e1-01117c85d897" />
 
-
-
-<img width="965" height="539" alt="image" src="https://github.com/user-attachments/assets/1340b9d1-d0f8-4636-abff-c0f3961eab10" />
+<img width="965" height="539" alt="image" src="https://github.com/user-attachments/assets/07a12946-8060-488d-97e1-f4782d322db4" />
 
