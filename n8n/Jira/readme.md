@@ -1,7 +1,6 @@
+<img width="742" height="431" alt="image" src="https://github.com/user-attachments/assets/32f20c84-32ad-4be6-bc90-b845e2974c4f" />
 
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/6caa440b-7311-46bc-898c-1b58e369f216" />
-
-<img width="923" height="416" alt="image" src="https://github.com/user-attachments/assets/c969ebc1-64ae-4d61-940b-ccf1dabceb48" />
+<img width="923" height="416" alt="image" src="https://github.com/user-attachments/assets/7b931ba3-82b3-4995-b2bd-cb6dd2034b7e" />
 
 Input : Fetch the JIRA ID and generate the 10 testcases and upload them to the excel file
 
@@ -14,7 +13,7 @@ Select Operation Get Many, Get, Fetch, etc,
 NOTE: if there is space in your project name then remove middle spaces.
 Select JQL: project = Android16 ORDER BY created DESC
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/f1ef9ea0-fcb0-4878-9baf-701d0aec015d" />
+<img width="324" height="531" alt="image" src="https://github.com/user-attachments/assets/1347b3a0-1e08-4e1e-ae68-fb94aeadff29" />
 
 # AI Agent 
 
