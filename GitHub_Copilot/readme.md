@@ -1,4 +1,4 @@
-# GitHub Copilot Tutorial for Beginners (QA/SDET Friendly)
+# GitHub Copilot Tutorial
 
 GitHub Copilot is an AI coding assistant that helps you write code, explain code, generate tests, fix bugs, and write documentation directly inside your IDE.
 
