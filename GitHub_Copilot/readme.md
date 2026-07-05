@@ -19,7 +19,7 @@ Alt + ] → Next suggestion
 Alt + [ → Previous suggestion  
 Ctrl + I → Open Copilot inline chat
 
-## 5. Examples for QA Engineers
+## Examples for QA Engineers
 
 ### Generate Selenium Script
 
