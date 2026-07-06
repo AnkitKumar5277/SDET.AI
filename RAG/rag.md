@@ -1,9 +1,12 @@
 # RAG
+
 RAG = Retrieval-Augmented Generation
 AI pehle aapke documents mein search karta hai, phir usi information ke basis par answer deta hai.
 Matlab AI guess nahi karta, balki document se answer nikalta hai.
 RAG is a technique that allows an AI model to answer questions using your own documents instead of relying only on its training.
+
 ---
+
 ## Company mein kitni Casual Leaves hain?
 Without RAG - AI guess karega.
 With RAG:
