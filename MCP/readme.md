@@ -3,9 +3,6 @@
 Model Context Protocol (MCP) is an open standard that allows AI models like ChatGPT, Claude, and other LLMs to securely connect with external tools, APIs, databases, and local files.
 
 # When Should You Use MCP?
-
-Use MCP when your AI needs to:
-
 - Access databases
 - Read or write files
 - Call REST APIs
@@ -90,7 +87,7 @@ create_user()
 read_file()
 ```
 
-## Resources
+## 4. Resources
 
 Data exposed to AI.
 
@@ -100,7 +97,7 @@ Example:
 - config.json
 - database records
 
-## Prompts
+## 5. Prompts
 
 Reusable prompt templates.
 
@@ -224,27 +221,6 @@ GitHub API
 
 Repository List
 ```
-
-Guide:
-install nodejs nodejs.org/en/download
-
-mcp server github.com/microsoft/playwright-mcp
-
-Agenda
-
-What is AI Agent?
-
-What is the MCP Server and How this MCP help an LLM to be superman.
-
-AI Agent that perform Web browser Testing using Selenium, Playwright.
-
-Task 1 - Basic Task
-
-Task 2 - Medium Task
-
-Task 3 - Advance Stuff
-
-Github MCP Server – Push code via Prompts (like 5th grade)
 
 <img width="1398" height="865" alt="image" src="https://github.com/user-attachments/assets/3eb2d6e9-afce-4bb0-b2e1-01117c85d897" />
 
