@@ -1,5 +1,3 @@
-Bilkul Ankit 👍 Neeche **AI Fluency: Key Terminology Cheat Sheet** ko simple **Hinglish** mein explain kiya hai, taaki easily samajh aur yaad kar sako.
-
 # 🤖 AI Fluency – Simple Hinglish
 
 ## 1. Core AI Fluency Framework – **The 4Ds**
